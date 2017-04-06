@@ -1,0 +1,75 @@
+
+.Profil{
+	font-family: 'Lato';
+	font-size: 60pt;
+	color: red;
+	padding-top: 10px;
+	padding-right: 200px;
+	padding-bottom: 10px;
+	padding-left: 280;
+}
+h2{
+	font-size: 50pt;
+	color: orange;
+	border-top-style: double;
+    border-right-style: double;
+    border-bottom-style: double;
+    border-left-style: double;
+    padding-left: 75px;
+    padding-right: 5px;
+    margin-top: 100px
+	margin-bottom: 100px;
+	margin-right: 400px;
+	margin-left: 420px;
+}
+img{
+	width:50%;
+	margin-top: 100px
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 280px;
+	border-top-style: dotted;
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+}
+.par1{
+	font-family: 'Lato';
+	font-size: 20pt;
+	letter-spacing: 2px;
+	color: green;
+	text-align: left;
+	text-align: justify;
+}
+.par2{
+	font-family: 'Open Sans';
+	font-size:15pt;
+	color: blue;
+	text-align: left; 
+	text-align: justify;
+}
+.par3{
+	font-family: 'verdana';
+	font-size:10pt;
+	letter-spacing: 1px;
+	color: black;
+	text-align: justify;
+}
+
+.container{
+rgin-top: 50px;
+}
+
+.pic-border{
+	border-style: : dotted;
+}
+
+.gmb{
+	padding-top: 300px;
+	width:30%;
+	border-style: : dotted;
+}
+
+.isi{
+	background-color: #E6E6FA;
+}
